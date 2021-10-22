@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h2 style="color:khaki;">Yellow Page</h2>
+	
+	<jsp:useBean id="dao" class="jsp04.MemberDAO" />
 </body>
 </html>
